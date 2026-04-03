@@ -11,7 +11,6 @@ Controlled placement of objects (center, relative positions, overlap)
 
 Tech Stack:
 Python
-PIL / OpenCV
 NumPy / Pandas
-TensorFlow / PyTorch
+
 
